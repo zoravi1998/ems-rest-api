@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin("https://ems-21.herokuapp.com")
+@CrossOrigin(origins="https://ems-21.herokuapp.com")
 @RestController
 public class EmployeeController {
     @Autowired
