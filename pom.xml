@@ -67,7 +67,7 @@
 				<groupId>com.google.cloud.tools</groupId>
 				<artifactId>appengine-maven-plugin</artifactId>
 				<configuration>
-					<version>2</version>
+					<version>1</version>
 					<projectId>alpine-theory-326917</projectId>
 				</configuration>
 				<version>2.4.1</version>
