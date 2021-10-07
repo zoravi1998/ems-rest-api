@@ -3,3 +3,5 @@ env: standard
 handlers:
   - url: /.*
     script: this field is required, but ignored
+vpc_access_connector:
+  name: projects/alpine-theory-326917/locations/asia-south1/connectors/network
